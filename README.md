@@ -102,7 +102,7 @@ My name is Anthony MacAllister. I'm adaptable and driven professional with exten
 
 <!-- links to your social media accounts -->
 
-[1]: https://twitter.com/ezenity
+[1]: https://ezenity.com
 [2]: https://github.com/ezenity
 [3]: https://www.linkedin.com/in/anthonymmacallister/
 [4]: https://t.me/ezenity
